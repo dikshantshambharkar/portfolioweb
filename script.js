@@ -1,0 +1,1 @@
+console.log("Script i satt i en egen fil");
